@@ -1,4 +1,4 @@
-## Hi there 👋, I'm [Abduljabbar Nuhu aka AanDevAnalyst](https://linkedin.com/in/abduljabbar-nuhu-110050289/)  
+## Hi there 👋, I'm [Abduljabbar Nuhu(AanDevAnalyst)](https://linkedin.com/in/abduljabbar-nuhu-110050289/)  
 
 ## 👨‍💻 I'm a Software Developer & Data Analyst a graduate from Bayero University Kano (BUK), Kano state, Nigeria 
 were I acquire my Bachelor's degree in Electronics with Physics, I specialize in developing website using HTML, CSS,
