@@ -1,15 +1,15 @@
 ## Hi there 👋, I'm [Abduljabbar Nuhu(AanDevAnalyst)](https://linkedin.com/in/abduljabbar-nuhu-110050289/)  
 
-## 👨‍💻 I'm a Software Developer & Data Analyst a graduate from Bayero University Kano (BUK), Kano state, Nigeria 
+## 👨‍💻 I'm a Software Developer & Data Analyst a graduate from Bayero University Kano (BUK), Kano State, Nigeria 
 were I acquire my Bachelor's degree in Electronics with Physics, I specialize in developing website using HTML, CSS,
 Flask or Django framework for web design while in transforming raw data into actionable insights by sleuthing data to 
 identify trends and patterns.
 
-🔭 I’m currently working on various tasks assigne to me by Codveda as part of my Internship program.
-🧭 I’m currently learning testing, traing and deployment of machine learning models.
-👯 I’m looking to collaborate on open source projects, internship roles and start ups.
-💬 Ask me about anime more specifically psychological or detective genre, Tech.
-🤔 I’m looking for help with how to network with more Tech Savvy & various opportunities.
+🔭 I’m currently working on various tasks assigne to me by Codveda as part of my Internship program.  
+🧭 I’m currently learning testing, traing and deployment of machine learning models.  
+👯 I’m looking to collaborate on open source projects, internship roles and start ups.  
+💬 Ask me about anime more specifically psychological or detective genre, Tech.  
+🤔 I’m looking for help with how to network with more Tech Savvy & various opportunities.  
 
 ### 🚀 Languages & Tools
 
