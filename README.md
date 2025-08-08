@@ -6,7 +6,7 @@ Flask or Django framework for web design while in transforming raw data into act
 identify trends and patterns.
 
 🔭 I’m currently working on various tasks assigned to me by Codveda as part of my Internship program.  
-🧭 I’m currently learning various machine learning mode starting with testing, training and deployment of machine learning models.  
+🧭 I’m currently learning various machine learning model starting with testing, training and deployment of models.  
 👯 I’m looking to collaborate on open source projects, internship roles and start ups.  
 💬 Ask me about Tech, anime more specifically psychological or mystery genre.  
 🤔 I’m looking for help with how to network with more Tech Savvy & various opportunities.  
