@@ -9,7 +9,7 @@ identify trends and patterns.
 🧭 I’m currently learning various machine learning model starting with testing, training and deployment of models.  
 👯 I’m looking to collaborate on open source projects, internship roles and start ups.  
 💬 Ask me about Tech, anime more specifically psychological or mystery genre.  
-🤔 I’m looking for help with how to network with more Tech Savvy & various opportunities.  
+🤔 I’m open to various oppurtunity to network with more Tech Savvies worldwide.  
 
 ### 🚀 Languages & Tools
 
