@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm [Abduljabbar Nuhu(AanDevAnalyst)](https://linkedin.com/in/abduljabbar-nuhu-110050289/)  
 
-## 👨‍💻 I'm a Software Developer & Data Analyst with Bachelor's degree Electronics with Physics from Bayero University Kano (BUK), Kano State, Nigeria 
+## 👨‍💻 I'm a Software Developer & Data Analyst/Data Scientist with Bachelor's Degree Electronics with Physics from Bayero University Kano (BUK), Kano State, Nigeria 
 were I acquire my Bachelor's degree in Electronics with Physics, I specialize in developing website using HTML, CSS,
 Flask or Django framework for web design while in transforming raw data into actionable insights by sleuthing data to 
-identify trends and patterns.
+identify trends and patterns I use Python Programming Language.
 
 🔭 I’m currently working on various tasks assigned to me by Codveda as part of my Internship program.  
 🧭 I’m currently learning various machine learning model starting with testing, training and deployment of models.  
@@ -37,7 +37,7 @@ identify trends and patterns.
 
 ## Connect with me
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/abduljabbar-nuhu-110050289/)  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aandevanalyst?igsh=bWU3ZGNtZnB6ZXh2)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/aandevanalyst/)  
 https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](aananalyst@gmail.com)
 
 ### 📊 GitHub Stats
