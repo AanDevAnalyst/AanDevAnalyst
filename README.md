@@ -5,7 +5,7 @@ were I acquire my Bachelor's degree in Electronics with Physics, I specialize in
 Flask or Django framework for web design while in transforming raw data into actionable insights by sleuthing data to 
 identify trends and patterns I use Python Programming Language.
 
-🔭 I’m currently working on various tasks assigned to me by Codveda as part of my Internship program.  
+🔭 I’m currently rounding up on various tasks assigned to me by FlexiSAF Edusoft as part of my Internship program.  
 🧭 I’m currently learning various machine learning model starting with testing, training and deployment of models.  
 👯 I’m looking to collaborate on open source projects, internship roles and start ups.  
 💬 Ask me about Tech, anime more specifically psychological or mystery genre.  
