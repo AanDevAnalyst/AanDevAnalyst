@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm [Abduljabbar Nuhu(AanDevAnalyst)](https://linkedin.com/in/abduljabbar-nuhu-110050289/)  
 
 ## 👨‍💻 I'm a Software Developer & Data Analyst/Data Scientist with Bachelor's Degree Electronics with Physics from Bayero University Kano (BUK), Kano State, Nigeria 
-when I acquiring my Bachelor's degree in Electronics with Physics, I specialize in developing website using HTML, CSS,
+When acquiring my Bachelor's degree in Electronics with Physics, I specialize in developing website using HTML, CSS,
 Flask or Django framework for web design while in transforming raw data into actionable insights by sleuthing data to 
 identify trends and patterns I use Python Programming Language.
 
